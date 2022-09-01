@@ -1,4 +1,4 @@
-# Sf Stats Web
+# Sf Stats Web [![Angular CI/CD](https://github.com/GCherry/sf_stats_web/actions/workflows/angular.yml/badge.svg)](https://github.com/GCherry/sf_stats_web/actions/workflows/angular.yml)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
